@@ -85,9 +85,8 @@ Right-click on index.html → Open with Live Server
 | WhatsApp Channel | [Tripathi Dev Lab Channel](https://whatsapp.com/channel/0029Vb7sg2V3bbV4NpadBX1m) |
 | YouTube | [@tripathidevlab](https://youtube.com/@tripathidevlab) |
 | Facebook | [Tripathi Dev Lab](https://www.facebook.com/profile.php?id=61572586097410) |
-| GitHub | [@pawan8705](https://github.com/pawan8705) |
+| GitHub | [@tripathipawan](https://github.com/tripathipawan) |
 | LinkedIn | [Pawan Tripathi](https://www.linkedin.com/in/pawantripathi) |
-| CodePen | [Pawan Tripathi](https://codepen.io/Pawan-Tripathi-the-lessful) |
 
 ---
 
